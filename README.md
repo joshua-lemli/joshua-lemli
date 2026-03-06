@@ -1,7 +1,7 @@
 C / C++  
 C# / .NET  
 ECMAScript / JavaScript  
-SQLite  
+SQLite / SEE  
 SQL Server  
 Linux  
 Windows  
