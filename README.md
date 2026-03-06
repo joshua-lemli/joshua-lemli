@@ -8,7 +8,7 @@ Windows
 
 Full Stack Web  
 Cross-Platform Development  
-Embedded Systems
+Embedded Systems  
 Database Design  
 Data Science  
 Data Visualization  
